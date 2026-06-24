@@ -1,0 +1,56 @@
+# =========================
+# Visual Studio
+# =========================
+
+.vs/
+*.user
+*.suo
+
+# =========================
+# Build output
+# =========================
+
+bin/
+obj/
+
+# =========================
+# Rider / VSCode
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+# Node / React / Vite
+# =========================
+
+node_modules/
+dist/
+
+# =========================
+# Environment / secrets
+# =========================
+
+.env
+.env.local
+
+# Optional:
+# appsettings.Development.json
+
+Emeraldine.Api/appsettings.Local.json
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS files
+# =========================
+
+gendocs/
+pdocs/
+
+Thumbs.db
+.DS_Store

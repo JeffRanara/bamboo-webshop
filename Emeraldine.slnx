@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Emeraldine.Api/Emeraldine.Api.csproj" />
+  <Project Path="Emeraldine.Domain/Emeraldine.Domain.csproj" />
+  <Project Path="Emeraldine.Infrastructure/Emeraldine.Infrastructure.csproj" />
+</Solution>

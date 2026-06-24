@@ -1,0 +1,4141 @@
+{
+  "sourceRegistry": {
+    "uploaded_template_2026_05_02": {
+      "label": "Uploaded Bamboo Technical Profile template",
+      "type": "user-provided template",
+      "dateAccessed": "2026-05-02",
+      "notes": "Template includes separate low/high database fields and Phyllostachys vivax Aureocaulis example values."
+    },
+    "uploaded_json_2026_05_02": {
+      "label": "Uploaded bamboo_database.json",
+      "type": "user-provided dataset",
+      "dateAccessed": "2026-05-02",
+      "notes": "Primary baseline for all 29 collection species."
+    },
+    "useful_temperate_plants_p_vivax": {
+      "label": "Useful Temperate Plants / The Ferns: Phyllostachys vivax",
+      "type": "public reference",
+      "dateAccessed": "2026-05-02",
+      "url": "https://temperate.theferns.info/plant/Phyllostachys%2Bvivax"
+    },
+    "bamboo_garden_p_vivax": {
+      "label": "Bamboo Garden: Phyllostachys vivax",
+      "type": "specialist bamboo nursery",
+      "dateAccessed": "2026-05-02",
+      "url": "https://www.bamboogarden.com/bamboo/phyllostachys-vivax"
+    },
+    "food_plants_p_vivax": {
+      "label": "Food Plants International: Phyllostachys vivax",
+      "type": "food plant reference",
+      "dateAccessed": "2026-05-02"
+    },
+    "useful_temperate_plants_p_parvifolia": {
+      "label": "Useful Temperate Plants / The Ferns: Phyllostachys parvifolia",
+      "type": "public reference",
+      "dateAccessed": "2026-05-02",
+      "url": "https://temperate.theferns.info/viewtropical.php?id=Phyllostachys+parvifolia"
+    },
+    "pfaf_p_parvifolia": {
+      "label": "PFAF: Phyllostachys parvifolia",
+      "type": "plant database",
+      "dateAccessed": "2026-05-02",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Phyllostachys+parvifolia"
+    },
+    "bambunusa_p_atrovaginata": {
+      "label": "Bambunusa Verde: Phyllostachys atrovaginata",
+      "type": "specialist bamboo nursery",
+      "dateAccessed": "2026-05-02",
+      "url": "https://www.bambunusaverde.com/product-page/phyllostachys-atrovaginata"
+    },
+    "rhs_fargesia_red_zebra": {
+      "label": "RHS: Fargesia murielae Red Zebra",
+      "type": "horticultural reference",
+      "dateAccessed": "2026-05-02",
+      "url": "https://www.rhs.org.uk/plants/358171/fargesia-murielae-red-zebra-%28-japo-51-pbr%29/details"
+    },
+    "garden_bamboo_red_zebra": {
+      "label": "Garden Bamboo Plants: Fargesia murielae Red Zebra",
+      "type": "specialist nursery",
+      "dateAccessed": "2026-05-02",
+      "url": "https://www.gardenbambooplants.com/red-zebra-umbrella-bamboo/"
+    },
+    "bamboo_garden_aureosulcata": {
+      "label": "Bamboo Garden: Phyllostachys aureosulcata group",
+      "type": "specialist bamboo nursery",
+      "dateAccessed": "2026-05-02",
+      "notes": "Used for species/cultivar height, diameter, USDA hardiness cross-checks."
+    },
+    "bamboo_garden_bissetii_nuda_fargesia": {
+      "label": "Bamboo Garden: selected Phyllostachys/Fargesia pages",
+      "type": "specialist bamboo nursery",
+      "dateAccessed": "2026-05-02",
+      "notes": "Used for selected height/diameter/hardiness cross-checks."
+    }
+  },
+  "profiles": [
+    {
+      "identity": {
+        "displayName": "Phyllostachys vivax 'Aureocaulis'",
+        "genus": "Phyllostachys",
+        "species": "vivax",
+        "cultivar": "Aureocaulis",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": "China / Eastern China",
+        "floweringIntervalYearsLow": 60,
+        "floweringIntervalYearsHigh": 120
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 5.0,
+        "adultHeightHighM": 15.0,
+        "culmDiameterLowCm": 4.0,
+        "culmDiameterHighCm": 13.0,
+        "wallThicknessLowCm": 0.5,
+        "wallThicknessHighCm": 0.8,
+        "internodeLengthLowCm": 25.0,
+        "internodeLengthHighCm": 35.0,
+        "leafLengthLowCm": 10.0,
+        "leafLengthHighCm": 18.0,
+        "leafWidthLowCm": 1.5,
+        "leafWidthHighCm": 2.5,
+        "sheathLengthLowCm": 12.0,
+        "sheathLengthHighCm": 18.0,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -23.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": "Loam / garden soil",
+        "moisturePreference": "Moist / well-drained",
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Low",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": "High"
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.5,
+        "shootEdibility": "Excellent",
+        "timberStrength": "Decorative",
+        "scentProfile": "Sweet/grassy when cut",
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": "Bright yellow",
+        "culmColorSecondary": "Green stripes / sulcus",
+        "seasonalColorChange": null,
+        "texture": "Smooth / waxy when young",
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Prone to snow-breakage; must shake off wet snow. High heat requirement for thick culms.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "useful_temperate_plants_p_vivax",
+          "bamboo_garden_p_vivax",
+          "food_plants_p_vivax",
+          "uploaded_template_2026_05_02"
+        ],
+        "fieldSources": {
+          "taxonomy.nativeRange": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Template and public references place P. vivax in China; cultivar-specific origin requires audit."
+          },
+          "morphology.adultHeightLowM": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference says 5–15 m; cultivar/local performance may differ."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference gives 40–75 mm; Bamboo Garden gives larger cultivated potential."
+          },
+          "taxonomy.floweringIntervalYearsLow": "uploaded_template_2026_05_02",
+          "taxonomy.floweringIntervalYearsHigh": "uploaded_template_2026_05_02",
+          "morphology.leafLengthLowCm": "uploaded_template_2026_05_02",
+          "morphology.leafLengthHighCm": "uploaded_template_2026_05_02",
+          "morphology.leafWidthLowCm": "uploaded_template_2026_05_02",
+          "morphology.leafWidthHighCm": "uploaded_template_2026_05_02",
+          "morphology.sheathLengthLowCm": "uploaded_template_2026_05_02",
+          "morphology.sheathLengthHighCm": "uploaded_template_2026_05_02",
+          "climateAndSoil.soilType": "uploaded_template_2026_05_02",
+          "climateAndSoil.moisturePreference": "uploaded_template_2026_05_02",
+          "growerMetrics.scentProfile": "uploaded_template_2026_05_02",
+          "aestheticSensory.culmColorPrimary": "uploaded_template_2026_05_02",
+          "aestheticSensory.culmColorSecondary": "uploaded_template_2026_05_02",
+          "aestheticSensory.texture": "uploaded_template_2026_05_02",
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys vivax 'Huanwenzhu'",
+        "genus": "Phyllostachys",
+        "species": "vivax",
+        "cultivar": "Huanwenzhu",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": "China / Eastern China",
+        "floweringIntervalYearsLow": 60,
+        "floweringIntervalYearsHigh": 120
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 5.0,
+        "adultHeightHighM": 15.0,
+        "culmDiameterLowCm": 4.0,
+        "culmDiameterHighCm": 12.0,
+        "wallThicknessLowCm": 0.5,
+        "wallThicknessHighCm": 0.8,
+        "internodeLengthLowCm": 25.0,
+        "internodeLengthHighCm": 35.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -20.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Low",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.5,
+        "shootEdibility": "Excellent",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Excellent color contrast; spectacular in Zone 1. Shake off wet snow.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "useful_temperate_plants_p_vivax",
+          "bamboo_garden_p_vivax",
+          "food_plants_p_vivax",
+          "uploaded_template_2026_05_02"
+        ],
+        "fieldSources": {
+          "taxonomy.nativeRange": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Template and public references place P. vivax in China; cultivar-specific origin requires audit."
+          },
+          "morphology.adultHeightLowM": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference says 5–15 m; cultivar/local performance may differ."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference gives 40–75 mm; Bamboo Garden gives larger cultivated potential."
+          },
+          "taxonomy.floweringIntervalYearsLow": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Species-level estimate from P. vivax template; cultivar-specific audit needed."
+          },
+          "taxonomy.floweringIntervalYearsHigh": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Species-level estimate from P. vivax template; cultivar-specific audit needed."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys vivax 'McClure'",
+        "genus": "Phyllostachys",
+        "species": "vivax",
+        "cultivar": "McClure",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": "China / Eastern China",
+        "floweringIntervalYearsLow": 60,
+        "floweringIntervalYearsHigh": 120
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 5.0,
+        "adultHeightHighM": 16.0,
+        "culmDiameterLowCm": 4.0,
+        "culmDiameterHighCm": 13.0,
+        "wallThicknessLowCm": 0.6,
+        "wallThicknessHighCm": 0.9,
+        "internodeLengthLowCm": 25.0,
+        "internodeLengthHighCm": 35.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -18.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 1,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 2.0,
+        "shootEdibility": "Excellent",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Giant Timber form; only for mildest coastal spots like Skåne. Needs deep mulch.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "useful_temperate_plants_p_vivax",
+          "bamboo_garden_p_vivax",
+          "food_plants_p_vivax",
+          "uploaded_template_2026_05_02"
+        ],
+        "fieldSources": {
+          "taxonomy.nativeRange": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Template and public references place P. vivax in China; cultivar-specific origin requires audit."
+          },
+          "morphology.adultHeightLowM": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference says 5–15 m; cultivar/local performance may differ."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "useful_temperate_plants_p_vivax",
+            "note": "Species-level reference gives 40–75 mm; Bamboo Garden gives larger cultivated potential."
+          },
+          "taxonomy.floweringIntervalYearsLow": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Species-level estimate from P. vivax template; cultivar-specific audit needed."
+          },
+          "taxonomy.floweringIntervalYearsHigh": {
+            "source": "uploaded_template_2026_05_02",
+            "note": "Species-level estimate from P. vivax template; cultivar-specific audit needed."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys parvifolia",
+        "genus": "Phyllostachys",
+        "species": "parvifolia",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": "Zhejiang, China / cultivated in China",
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.0,
+        "adultHeightHighM": 12.0,
+        "culmDiameterLowCm": 5.0,
+        "culmDiameterHighCm": 10.0,
+        "wallThicknessLowCm": 1.0,
+        "wallThicknessHighCm": 1.5,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": "Prefers moist soil",
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 30.0,
+        "rhizomeDepthHighCm": 50.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.5,
+        "shootEdibility": "Excellent",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Best giant for Sweden. Extremely hardy; slow to establish in cold northern soil.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "useful_temperate_plants_p_parvifolia",
+          "pfaf_p_parvifolia"
+        ],
+        "fieldSources": {
+          "taxonomy.nativeRange": {
+            "source": "useful_temperate_plants_p_parvifolia",
+            "note": "Native/cultivated range needs authoritative Flora audit."
+          },
+          "morphology.adultHeightLowM": {
+            "source": "useful_temperate_plants_p_parvifolia",
+            "note": "Reference values vary: around 8 m; other summaries describe average 7 m and max 12 m."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "useful_temperate_plants_p_parvifolia",
+            "note": "Reference gives around 50 mm; retained higher baseline max."
+          },
+          "climateAndSoil.moisturePreference": "pfaf_p_parvifolia",
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [
+          "morphology.internodeLengthHighCm: source useful_temperate_plants_p_parvifolia suggests 24.0; retained baseline 25.0."
+        ],
+        "missingFields": [
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys atrovaginata",
+        "genus": "Phyllostachys",
+        "species": "atrovaginata",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.0,
+        "adultHeightHighM": 10.0,
+        "culmDiameterLowCm": 3.0,
+        "culmDiameterHighCm": 7.0,
+        "wallThicknessLowCm": 0.8,
+        "wallThicknessHighCm": 1.2,
+        "internodeLengthLowCm": 20.0,
+        "internodeLengthHighCm": 30.0,
+        "leafLengthLowCm": 5.5,
+        "leafLengthHighCm": 13.0,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -23.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.2,
+        "shootEdibility": "Excellent",
+        "timberStrength": "Structural",
+        "scentProfile": "Fragrant scent in warm weather or when rubbed",
+        "primaryUses": "Structural, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Incense bamboo; sandalwood scent is strongest after Swedish summer rain.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bambunusa_p_atrovaginata"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": "bambunusa_p_atrovaginata",
+          "morphology.culmDiameterLowCm": "bambunusa_p_atrovaginata",
+          "morphology.leafLengthLowCm": "bambunusa_p_atrovaginata",
+          "morphology.leafLengthHighCm": "bambunusa_p_atrovaginata",
+          "growerMetrics.scentProfile": "bambunusa_p_atrovaginata",
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [
+          "morphology.adultHeightHighM: source bambunusa_p_atrovaginata suggests 8.0; retained baseline 10.0.",
+          "morphology.culmDiameterHighCm: source bambunusa_p_atrovaginata suggests 5.0; retained baseline 7.0.",
+          "morphology.wallThicknessLowCm: source bambunusa_p_atrovaginata suggests 0.3; retained baseline 0.8.",
+          "morphology.wallThicknessHighCm: source bambunusa_p_atrovaginata suggests 0.5; retained baseline 1.2.",
+          "morphology.internodeLengthLowCm: source bambunusa_p_atrovaginata suggests 29.0; retained baseline 20.0.",
+          "morphology.internodeLengthHighCm: source bambunusa_p_atrovaginata suggests 31.0; retained baseline 30.0."
+        ],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys aureosulcata",
+        "genus": "Phyllostachys",
+        "species": "aureosulcata",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.6,
+        "adultHeightHighM": 9.0,
+        "culmDiameterLowCm": 5.0,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": false,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Good",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Reliable to Zone 3. Lower culms often zig-zag due to late spring frosts.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_aureosulcata"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives average around 25 ft for several aureosulcata forms; local Sweden values need audit."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives 2 inches diameter for common forms; baseline high values retained."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys aureosulcata 'Aureocaulis'",
+        "genus": "Phyllostachys",
+        "species": "aureosulcata",
+        "cultivar": "Aureocaulis",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.6,
+        "adultHeightHighM": 8.0,
+        "culmDiameterLowCm": 5.0,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": false,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": "High",
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Good",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "All-yellow canes. Very wind tolerant; most reliable yellow runner for cold SE.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_aureosulcata"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives average around 25 ft for several aureosulcata forms; local Sweden values need audit."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives 2 inches diameter for common forms; baseline high values retained."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys aureosulcata 'Spectabilis'",
+        "genus": "Phyllostachys",
+        "species": "aureosulcata",
+        "cultivar": "Spectabilis",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.6,
+        "adultHeightHighM": 9.0,
+        "culmDiameterLowCm": 5.0,
+        "culmDiameterHighCm": 5.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": false,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "High",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Good",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Yellow with green groove. Very vigorous; use heavy-duty root barrier.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_aureosulcata"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives average around 25 ft for several aureosulcata forms; local Sweden values need audit."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives 2 inches diameter for common forms; baseline high values retained."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys aureosulcata 'Argus'",
+        "genus": "Phyllostachys",
+        "species": "aureosulcata",
+        "cultivar": "Argus",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": 7.6,
+        "adultHeightHighM": 7.0,
+        "culmDiameterLowCm": 5.0,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": false,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Good",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Highly striped variant. Slower growth rate in northern Swedish latitudes.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_aureosulcata"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives average around 25 ft for several aureosulcata forms; local Sweden values need audit."
+          },
+          "morphology.culmDiameterLowCm": {
+            "source": "bamboo_garden_aureosulcata",
+            "note": "Bamboo Garden gives 2 inches diameter for common forms; baseline high values retained."
+          },
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys nigra",
+        "genus": "Phyllostachys",
+        "species": "nigra",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 7.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.3,
+        "wallThicknessHighCm": 0.5,
+        "internodeLengthLowCm": 20.0,
+        "internodeLengthHighCm": 30.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -18.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 1,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Fair",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Risk of top-kill in Zone 2. Best in large pots or very sheltered coastal gardens.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys nigra 'Henonis'",
+        "genus": "Phyllostachys",
+        "species": "nigra",
+        "cultivar": "Henonis",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 12.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 8.0,
+        "wallThicknessLowCm": 0.8,
+        "wallThicknessHighCm": 1.2,
+        "internodeLengthLowCm": 25.0,
+        "internodeLengthHighCm": 35.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -22.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 30.0,
+        "rhizomeDepthHighCm": 50.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.5,
+        "shootEdibility": "Good",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Grey-green timber form. Hardier than black form; can reach timber size in Zone 1.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys nigra 'Punctata'",
+        "genus": "Phyllostachys",
+        "species": "nigra",
+        "cultivar": "Punctata",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 8.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 5.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 20.0,
+        "internodeLengthHighCm": 30.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -20.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Fair",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Needs full sun to develop distinct black spots in northern light.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys bissetii",
+        "genus": "Phyllostachys",
+        "species": "bissetii",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 7.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 3.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -25.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": "High",
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Fair",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "The workhorse for SE windbreaks. Leaves stay very green through winter.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys decora",
+        "genus": "Phyllostachys",
+        "species": "decora",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 6.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -23.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": "High",
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Good",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Beautiful Bamboo. Holds up well against dry, scorching spring winds.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Phyllostachys nuda",
+        "genus": "Phyllostachys",
+        "species": "nuda",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 6.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 3.0,
+        "wallThicknessLowCm": 0.4,
+        "wallThicknessHighCm": 0.6,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -24.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Good",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Edible shoots, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Dark canes look striking against snow. Highly recommended for inland Zone 3.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Sasa kurilensis",
+        "genus": "Sasa",
+        "species": "kurilensis",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 3.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.0,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 20.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -30.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade/Shade",
+        "soilPhLow": 5.0,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 10.0,
+        "rhizomeDepthHighCm": 30.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 100,
+        "spreadRate": "High",
+        "hedgeSpacingM": 0.5,
+        "shootEdibility": "Fair",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Northernmost bamboo. Indestructible but highly invasive; requires 1m deep barrier.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Bashania qingchengshanensis",
+        "genus": "Bashania",
+        "species": "qingchengshanensis",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 4.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 2.0,
+        "wallThicknessLowCm": 0.3,
+        "wallThicknessHighCm": 0.5,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -22.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": "High",
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.6,
+        "shootEdibility": "Low",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Boxer Bamboo. Stiff culms; best for areas with high coastal winds.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Semiarundinaria fastuosa",
+        "genus": "Semiarundinaria",
+        "species": "fastuosa",
+        "cultivar": null,
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Running",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 8.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 4.0,
+        "wallThicknessLowCm": 0.5,
+        "wallThicknessHighCm": 0.7,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 25.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -20.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 1,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": 20.0,
+        "rhizomeDepthHighCm": 40.0,
+        "barrierRequired": true,
+        "recommendedBarrierDepthCm": 70,
+        "spreadRate": "Medium",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Fair",
+        "timberStrength": "Structural",
+        "scentProfile": null,
+        "primaryUses": "Structural, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 5,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Temple Bamboo. Needs a south wall/warmth for burgundy autumn color.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia nitida x murieliae 'Obelisk'",
+        "genus": "Fargesia",
+        "species": "nitida x murieliae",
+        "cultivar": "Obelisk",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 5.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.5,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -28.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "High",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.8,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Perfectly vertical pillar habit. Does not bend or weep under snow load.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia murieliae 'Red Zebra'",
+        "genus": "Fargesia",
+        "species": "murieliae",
+        "cultivar": "Red Zebra",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": 2.5,
+        "adultHeightHighM": 3.5,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.2,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -26.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": "Moist, well-drained",
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.6,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": 2,
+        "timeToMaturityYearsHigh": 5,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": "Dark red / green contrast",
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Color peaks in late winter. Avoid midday sun to prevent winter leaf-curl.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "rhs_fargesia_red_zebra",
+          "garden_bamboo_red_zebra"
+        ],
+        "fieldSources": {
+          "morphology.adultHeightLowM": "rhs_fargesia_red_zebra",
+          "growerMetrics.timeToMaturityYearsLow": "rhs_fargesia_red_zebra",
+          "growerMetrics.timeToMaturityYearsHigh": "rhs_fargesia_red_zebra",
+          "climateAndSoil.moisturePreference": "garden_bamboo_red_zebra",
+          "aestheticSensory.culmColorPrimary": "garden_bamboo_red_zebra",
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [
+          "morphology.adultHeightHighM: source rhs_fargesia_red_zebra suggests 4.0; retained baseline 3.5."
+        ],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia nitida x murieliae 'Schensbossen'",
+        "genus": "Fargesia",
+        "species": "nitida x murieliae",
+        "cultivar": "Schensbossen",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 4.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.2,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -26.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.7,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Dense, fine-leaved. Excellent for narrow boundaries in small gardens.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia sp. 'Rufa'",
+        "genus": "Fargesia",
+        "species": "sp.",
+        "cultivar": "Rufa",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 3.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.2,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -23.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 3,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "First to shoot in spring. The most sun-tolerant clumper in Swedish summers.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia robusta 'Campbell'",
+        "genus": "Fargesia",
+        "species": "robusta",
+        "cultivar": "Campbell",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 5.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 2.0,
+        "wallThicknessLowCm": 0.3,
+        "wallThicknessHighCm": 0.4,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 20.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -22.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Low",
+        "timberStrength": "Decorative",
+        "scentProfile": null,
+        "primaryUses": "Decorative, Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Does not curl leaves in winter. Glossy, tropical look; best in Zone 1-2.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia nitida 'Jürgen'",
+        "genus": "Fargesia",
+        "species": "nitida",
+        "cultivar": "Jürgen",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 4.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.2,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -28.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade/Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.7,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Non-flowering generation. Exceptional hardiness for cold inland regions.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia sp. Jiuzhaigou '1'",
+        "genus": "Fargesia",
+        "species": "sp. Jiuzhaigou",
+        "cultivar": "1",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 3.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 0.8,
+        "wallThicknessLowCm": 0.1,
+        "wallThicknessHighCm": 0.2,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -28.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.6,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Red Dragon. Culms turn bright red after winter frost and sun exposure.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia sp. Jiuzhaigou 'Deep Purple'",
+        "genus": "Fargesia",
+        "species": "sp. Jiuzhaigou",
+        "cultivar": "Deep Purple",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 3.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 0.8,
+        "wallThicknessLowCm": 0.1,
+        "wallThicknessHighCm": 0.2,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -28.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": true,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Full Sun/Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.6,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Darkest purple winter color variant. Very hardy and vertical.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02",
+          "bamboo_garden_bissetii_nuda_fargesia"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia demissa 'Gerry'",
+        "genus": "Fargesia",
+        "species": "demissa",
+        "cultivar": "Gerry",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 2.5,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.0,
+        "wallThicknessLowCm": 0.1,
+        "wallThicknessHighCm": 0.2,
+        "internodeLengthLowCm": 8.0,
+        "internodeLengthHighCm": 12.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -30.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 4,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 0.5,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Extremely hardy. Very upright and tidy; ideal for northern small gardens.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia denudata 'Xian 2'",
+        "genus": "Fargesia",
+        "species": "denudata",
+        "cultivar": "Xian 2",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 4.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 1.5,
+        "wallThicknessLowCm": 0.2,
+        "wallThicknessHighCm": 0.3,
+        "internodeLengthLowCm": 10.0,
+        "internodeLengthHighCm": 15.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -23.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": "High",
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 1.0,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Elegant weeping habit. Needs protection from dry northern winter winds.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    },
+    {
+      "identity": {
+        "displayName": "Fargesia sp. 'KR5287'",
+        "genus": "Fargesia",
+        "species": "sp.",
+        "cultivar": "KR5287",
+        "sourceDateBaseline": "2026-05-02",
+        "dataConfidence": "source-provided-with-conservative-derived-management-fields"
+      },
+      "taxonomy": {
+        "nativeRange": null,
+        "floweringIntervalYearsLow": null,
+        "floweringIntervalYearsHigh": null
+      },
+      "morphology": {
+        "growthHabit": "Clumping",
+        "adultHeightLowM": null,
+        "adultHeightHighM": 5.0,
+        "culmDiameterLowCm": null,
+        "culmDiameterHighCm": 2.0,
+        "wallThicknessLowCm": 0.3,
+        "wallThicknessHighCm": 0.4,
+        "internodeLengthLowCm": 15.0,
+        "internodeLengthHighCm": 20.0,
+        "leafLengthLowCm": null,
+        "leafLengthHighCm": null,
+        "leafWidthLowCm": null,
+        "leafWidthHighCm": null,
+        "sheathLengthLowCm": null,
+        "sheathLengthHighCm": null,
+        "sheathWidthLowCm": null,
+        "sheathWidthHighCm": null
+      },
+      "climateAndSoil": {
+        "hardinessMinC": -21.0,
+        "hardinessMaxC": null,
+        "swedishZoneLow": 1,
+        "swedishZoneHigh": 2,
+        "lightFullSun": false,
+        "lightPartialShade": true,
+        "lightShade": false,
+        "lightRequirementText": "Part Shade",
+        "soilPhLow": 5.5,
+        "soilPhHigh": 7.0,
+        "soilType": null,
+        "moisturePreference": null,
+        "droughtTolerance": null,
+        "waterloggingTolerance": null,
+        "windTolerance": null,
+        "snowLoadTolerance": "Medium",
+        "coldWindSensitivity": null,
+        "lateFrostSensitivity": null,
+        "heatRequirementLevel": null
+      },
+      "growerMetrics": {
+        "rhizomeDepthLowCm": null,
+        "rhizomeDepthHighCm": null,
+        "barrierRequired": false,
+        "recommendedBarrierDepthCm": null,
+        "spreadRate": "Low",
+        "hedgeSpacingM": 1.2,
+        "shootEdibility": "Low",
+        "timberStrength": "None",
+        "scentProfile": null,
+        "primaryUses": "Ornamental",
+        "annualGrowthRateLowCm": null,
+        "annualGrowthRateHighCm": null,
+        "timeToMaturityYearsLow": null,
+        "timeToMaturityYearsHigh": null,
+        "timeToHarvestYearsLow": null,
+        "timeToHarvestYearsHigh": null
+      },
+      "aestheticSensory": {
+        "culmColorPrimary": null,
+        "culmColorSecondary": null,
+        "seasonalColorChange": null,
+        "texture": null,
+        "ornamentalScore": null
+      },
+      "managementCalendar": {
+        "shootEmergenceStartMonth": 4,
+        "shootEmergenceEndMonth": 6,
+        "divisionStartMonth": 4,
+        "divisionEndMonth": 5,
+        "timberHarvestStartMonth": null,
+        "timberHarvestEndMonth": null
+      },
+      "notes": {
+        "description": null,
+        "swedishGrowerNotes": "Robust and vertical with large leaves. Requires high humidity and shelter.",
+        "reviewNotes": [
+          "adultHeightLowM missing: source provides max only",
+          "culmDiameterLowCm missing: source provides max only",
+          "rhizome depth not applicable/unknown for clumping bamboo"
+        ],
+        "dataLimitations": "Some botanical/detail fields remain null because reliable source support was not found or not yet audited."
+      },
+      "sourceAudit": {
+        "sourceRegistryKeys": [
+          "uploaded_json_2026_05_02"
+        ],
+        "fieldSources": {
+          "managementCalendar.divisionStartMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.divisionEndMonth": "derived_conservative_from_growth_habit_needs_review",
+          "managementCalendar.shootEmergenceStartMonth": "derived_conservative_needs_local_observation",
+          "managementCalendar.shootEmergenceEndMonth": "derived_conservative_needs_local_observation"
+        },
+        "conflictFlags": [],
+        "missingFields": [
+          "taxonomy.nativeRange",
+          "taxonomy.floweringIntervalYearsLow",
+          "taxonomy.floweringIntervalYearsHigh",
+          "morphology.adultHeightLowM",
+          "morphology.culmDiameterLowCm",
+          "morphology.leafLengthLowCm",
+          "morphology.leafLengthHighCm",
+          "morphology.leafWidthLowCm",
+          "morphology.leafWidthHighCm",
+          "morphology.sheathLengthLowCm",
+          "morphology.sheathLengthHighCm",
+          "morphology.sheathWidthLowCm",
+          "morphology.sheathWidthHighCm",
+          "climateAndSoil.hardinessMaxC",
+          "climateAndSoil.soilType",
+          "climateAndSoil.moisturePreference",
+          "climateAndSoil.windTolerance",
+          "growerMetrics.annualGrowthRateLowCm",
+          "growerMetrics.annualGrowthRateHighCm",
+          "growerMetrics.timeToMaturityYearsLow",
+          "growerMetrics.timeToMaturityYearsHigh",
+          "aestheticSensory.culmColorPrimary",
+          "aestheticSensory.culmColorSecondary",
+          "aestheticSensory.texture"
+        ],
+        "confidenceLevel": "mixed-source-conservative"
+      }
+    }
+  ]
+}
